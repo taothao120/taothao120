@@ -5,8 +5,8 @@
 - 📫 How to reach me: by gmail tmanh.8a@gmail.com or facebook: facebook.com/hutranminhdoc
 <div align="center">
   <a href="https://github.com/taothao120/taothao120">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taothao120&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taothao120&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=taothao120&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taothao120&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>

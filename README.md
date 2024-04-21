@@ -13,5 +13,5 @@
 <div style="display: inline_block"><br> 
   <img align="center" alt="Rafa-CPlus" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png">
   <img align="center" alt="Rafa-Matlab" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
-  <img align="center" alt="Rafa-Matlab" height="30" width="30" src="https://styles.redditmedia.com/t5_2qh0y/styles/communityIcon_h9cdwd9m75a51.png">
+
  

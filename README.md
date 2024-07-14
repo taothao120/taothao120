@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b4cde293-02d4-4c72-8d31-2997b4c77089)- 👋 Hi, I’m Minh Anh
+- 👋 Hi, I’m Minh Anh
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on embedded system
 - 📫 How to reach me: by gmail tmanh.8a@gmail.com or facebook: facebook.com/hutranminhdoc
@@ -11,6 +11,6 @@
 <br>
 <div style="display: inline_block"><br> 
   <img align="center" alt="Rafa-CPlus" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png">
-  <img align="center" alt="Rafa-Matlab" height="30" width="30" src="https://th.bing.com/th/id/R.80e789bf8ae1151908fb36669c9c4935?rik=PJgbbMYvDZp3lw&riu=http%3a%2f%2fparadigm-works.com%2fwp-content%2fuploads%2fVerilog.webp&ehk=DxZZ%2bxAlXqlCykZge9OI1d8KXdPrzxcURp4Mk9J7g0o%3d&risl=&pid=ImgRaw&r=0">
+  <img align="center" alt="Rafa-Verilog" height="30" width="30" src="https://th.bing.com/th/id/R.80e789bf8ae1151908fb36669c9c4935?rik=PJgbbMYvDZp3lw&riu=http%3a%2f%2fparadigm-works.com%2fwp-content%2fuploads%2fVerilog.webp&ehk=DxZZ%2bxAlXqlCykZge9OI1d8KXdPrzxcURp4Mk9J7g0o%3d&risl=&pid=ImgRaw&r=0">
 
  

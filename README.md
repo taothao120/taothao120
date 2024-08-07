@@ -1,3 +1,4 @@
+- 🌟 My blog: https://short.com.vn/lp0m
 - 👋 Hi, I’m Minh Anh
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on embedded system
